@@ -1,1 +1,1 @@
-# Scientific-Calculator
+#Calculator
